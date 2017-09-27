@@ -35,7 +35,7 @@
 
 ### ◆平均增长量
 如果某个量初期为A，经过N期之后变为B，平均增长量为x，那么：
-![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/1.png)
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/2.png)
 
 ### ◆同比增长、环比增长
 同比增长：与上一年的同一时期相比的增长速度
@@ -62,7 +62,7 @@
 2．直线下降，增长量不变，增长率绝对值增大。
 
 ### ◆简单例证：
- 
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/3.png)
 
 ### 直尺使用法则：
 ◆在较大的表格型材料中，强烈建议考生利用直尺比对数据。
@@ -123,7 +123,7 @@
 ◆）将增长率（减少率）用一个较大（小）的数值代替计算，得到 的增长量（减少量）也会相应变大（小）。
 
 ◎假设某个量的现期量为A，增长率为 1/n , 那么其增长量应该为：A* 1/n /(1+ 1/n)=A/(n+1) , 即：如果增长率为 1/n ，那么增长量就是现期量的1/(n+1) 倍。
- 
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/4.png)
 
 
 ## 插值法
@@ -133,7 +133,7 @@ A与B的比较，若可以找到一个数x，使得A>x，而B<x，即可以判�
 ◆“计算型”插值法
 在计算一个数值f的时候，选项给出两个较近的数A与B难以判断其大小， 若我们可以容易地找到A与B之间的一个数x时，就可以迅速得出需要计算的数值f。
 若A<x<B，则如果f>x，则可以得到f=B；如果f<x，则可以得到f=A
- 
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/5.png)
 
 
 ## 截位法
@@ -152,11 +152,11 @@ A与B的比较，若可以找到一个数x，使得A>x，而B<x，即可以判�
 ◆乘除截位法
 1．两个数相乘，那么这两个数的相对误差率之和，近似为总体的相 对误差率；
 2．两个数相除，那么这两个数的相对误差率之差，近似为总体的相 对误差率。
- 
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/6.png)
 
 ◆凑整截位法
 
 1、我们在进行乘除法计算的时候，如果碰到1.5，3.5，4.5这样的数字时 （我们称这类形式的数字为半整数），往往将其乘以2，以降低有效数字 位数，从而简化计算。
 
 2、如果碰到乘以1.5的形式，我们还可以直接运用“减半相加”的技巧；如 果碰到乘以或者除以2.5的形式，我们一般将2.5直接乘以4，这样更能简化计算。
- 
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/7.png)
