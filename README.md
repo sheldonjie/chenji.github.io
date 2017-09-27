@@ -31,11 +31,12 @@
 
 ### ◆平均增长率
 如果某个量初期为A，经过N期之后变为B，平均增长率为x%，那么：
-!(https://raw.githubusercontent.com/sheldonjie/molijun.github.io/e26e4680324c38381c64e67f32139d5c26fc30f5/1.png)
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/1.png)
 
 ### ◆平均增长量
 如果某个量初期为A，经过N期之后变为B，平均增长量为x，那么：
- 
+![数](https://raw.githubusercontent.com/sheldonjie/molijun.github.io/master/1.png)
+
 ### ◆同比增长、环比增长
 同比增长：与上一年的同一时期相比的增长速度
 环比增长：与紧紧相邻的上一期相比的增长速度
