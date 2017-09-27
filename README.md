@@ -31,7 +31,7 @@
 
 ### ◆平均增长率
 如果某个量初期为A，经过N期之后变为B，平均增长率为x%，那么：
-!()
+!(https://raw.githubusercontent.com/sheldonjie/molijun.github.io/e26e4680324c38381c64e67f32139d5c26fc30f5/1.png)
 
 ### ◆平均增长量
 如果某个量初期为A，经过N期之后变为B，平均增长量为x，那么：
